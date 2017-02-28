@@ -166,3 +166,4 @@ __ `Generated results`_
 .. _CalculatorLibrary.html: http://robotframework.bitbucket.org/RobotDemo/CalculatorLibrary.html
 .. _report.html: http://robotframework.bitbucket.org/RobotDemo/report.html
 .. _log.html: http://robotframework.bitbucket.org/RobotDemo/log.html
+
