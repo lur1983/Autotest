@@ -24,6 +24,6 @@ class Calculator(object):
         except ZeroDivisionError:
             raise CalculationError('Division by zero.')
 
-
+#This is a class
 class CalculationError(Exception):
     pass
